@@ -8,7 +8,7 @@ Summary:	Munkres algorithm for the Assignment Problem
 Summary(pl.UTF-8):	Algorytm Munkresa rozwiązywania problemu przypisania
 Name:		python-munkres
 Version:	1.0.12
-Release:	6
+Release:	7
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0:	https://files.pythonhosted.org/packages/source/m/munkres/munkres-%{version}.tar.gz
